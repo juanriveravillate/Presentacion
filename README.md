@@ -14,7 +14,6 @@ Herramienta	Para qué la uso
 📐 MATLAB	Simulación, modelado de sistemas, control
 🔌 Arduino	Prototipado rápido, sensores y actuadores
 ⚡ C++	Programación de bajo nivel y sistemas embebidos
-🧠 Mi flujo de trabajo (didáctico)
 💡 Idea / Problema
 📐 Modelado en MATLAB
 🐍 Análisis en Python
