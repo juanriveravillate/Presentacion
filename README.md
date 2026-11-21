@@ -21,7 +21,5 @@ Herramienta	Para qué la uso
 🔌 Prototipo con Arduino
 ⚡ Optimización en C++
 
-📊 Estadísticas de GitHub
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" /> </p>
 📫 Contáctame
 <p align="center"> <a href="https://www.linkedin.com/in/juan-jose-rivera-villate-453918411"> <img src="https://img.shields.io/badge/LinkedIn-Juan%20José%20Rivera%20Villate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <!-- Agrega tu correo si quieres: <a href="mailto:tucorreo@ejemplo.com"> <img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> --> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" /> </p> <!-- 🌊 Footer animado --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer" /> </p>
