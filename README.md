@@ -8,7 +8,7 @@
 🎬 Mira esto en acción
 <!-- ▶️ Video de mis proyectos (YouTube Shorts) --> <p align="center"> <a href="https://www.youtube.com/shorts/47E8CM2m7W0"> <img src="https://img.youtube.com/vi/47E8CM2m7W0/hqdefault.jpg" width="320" alt="Ver mi proyecto en YouTube" /> </a> <br/> <em>▶️ Haz clic para ver el video de mi proyecto</em> </p>
 🛠️ Tecnologías y herramientas
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,matlab,arduino,git,github,vscode,linux&perline=8" alt="Skills" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,matlab,arduino,vscode" alt="Skills" /> </p>
 Herramienta	Para qué la uso
 🐍 Python	Análisis de datos, procesamiento de señales, automatización
 📐 MATLAB	Simulación, modelado de sistemas, control
