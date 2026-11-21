@@ -2,3 +2,29 @@
 Repositorio dedicado a bases de datos en mysql
 ## subtitulos para proyectos
 informacion de la aplicacion
+<!-- ============================================================ README de perfil | Juan José Rivera Villate Reemplaza TU-USUARIO por tu usuario real de GitHub. ============================================================ --> <!-- 🌊 Banner animado --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juan%20José%20Rivera%20Villate&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Electrónico%20%7C%20Estudiante%20de%20Maestría&descAlignY=58&descSize=16" alt="Banner" /> </p> <!-- ⌨️ Texto animado tipo máquina de escribir --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=¡Hola!+👋+Soy+Juan+José;Ingeniero+Electrónico+⚡;Maestría+en+Ingeniería+Electrónica+🎓;Python+%7C+MATLAB+%7C+Arduino+%7C+C%2B%2B" alt="Texto animado" /> </p>
+👨‍💻 Sobre mí
+<table> <tr> <td width="220" align="center"> <!-- 📸 Sube tu foto a la carpeta assets/ con el nombre foto.jpg --> <img src="assets/foto.jpg" width="200" style="border-radius:50%" alt="Foto de Juan José" /> </td> <td>
+🔭 Soy Ingeniero Electrónico y actualmente curso una Maestría en Ingeniería Electrónica.
+⚙️ Me gusta entender cómo funcionan los sistemas: desde un sensor hasta un algoritmo de control.
+📍 Desde Colombia 🇨🇴
+</td> </tr> </table>
+🎬 Mira esto en acción
+<!-- 🎞️ Opción A: GIF animado (guárdalo en assets/demo.gif) --> <p align="center"> <img src="assets/demo.gif" width="500" alt="Demostración de mi proyecto" /> <br/> <em>Demo de uno de mis proyectos (reemplaza con tu GIF)</em> </p> <!-- ▶️ Opción B: video de YouTube con miniatura clicable. Cambia TU_ID_DE_VIDEO por el código que aparece después de "v=" en la URL. --> <p align="center"> <a href="https://www.youtube.com/watch?v=TU_ID_DE_VIDEO"> <img src="https://img.youtube.com/vi/TU_ID_DE_VIDEO/maxresdefault.jpg" width="500" alt="Ver video en YouTube" /> </a> <br/> <em>▶️ Haz clic para ver el video</em> </p>
+🛠️ Tecnologías y herramientas
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,matlab,arduino,git,github,vscode,linux&perline=8" alt="Skills" /> </p>
+Herramienta	Para qué la uso
+🐍 Python	Análisis de datos, procesamiento de señales, automatización
+📐 MATLAB	Simulación, modelado de sistemas, control
+🔌 Arduino	Prototipado rápido, sensores y actuadores
+⚡ C++	Programación de bajo nivel y sistemas embebidos
+🧠 Mi flujo de trabajo (didáctico)
+💡 Idea / Problema
+📐 Modelado en MATLAB
+🐍 Análisis en Python
+🔌 Prototipo con Arduino
+⚡ Optimización en C++
+📊 Estadísticas de GitHub
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" /> </p>
+📫 Contáctame
+<p align="center"> <a href="https://www.linkedin.com/in/juan-jose-rivera-villate-453918411"> <img src="https://img.shields.io/badge/LinkedIn-Juan%20José%20Rivera%20Villate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <!-- Agrega tu correo si quieres: <a href="mailto:tucorreo@ejemplo.com"> <img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> --> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" /> </p> <!-- 🌊 Footer animado --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer" /> </p>
